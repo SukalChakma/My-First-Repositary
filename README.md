@@ -1,4 +1,4 @@
 # My-First-Repositary
-My first code in Github
+This is my first Git repositary.
 <br>
 Author-Sukal Chakma
